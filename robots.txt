@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /404
+
+Sitemap: https://autolombard-capital.ru/sitemap.xml
+
+# Yandex specific
+User-agent: Yandex
+Allow: /
+Crawl-delay: 1
+
+# Google specific
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
